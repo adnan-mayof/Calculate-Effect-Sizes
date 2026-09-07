@@ -1,4 +1,6 @@
 # Step 14 — Calculate Effect Sizes
+[← Previous Step: Prepare the Data for Analysis](https://github.com/adnan-mayof/Prepare-the-Data-for-Analysis/blob/main/README.md)
+
 
 ## Maya’s Evidence Synthesis Journey
 
