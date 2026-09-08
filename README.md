@@ -914,12 +914,14 @@ D. Develop the research question again
 
 ---
 
-## Final Transition
+## 🚀 Maya's Journey Continues
 
-**Step 13:** Prepare the Data for Analysis
-↓
-**Step 14:** Calculate Effect Sizes
-↓
-**Step 15:** Conduct the Meta-Analysis
+Maya has now **completed the Calculate Effect Sizes stage**.
+The next challenge is to conduct the Examine Heterogeneity.
 
-Maya is ready to combine the evidence—but first she needs to decide **how the 22 effect sizes should be statistically synthesized.**
+She is now ready to move to:
+
+### Next Step
+
+### **[Step 15 — Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
+ 
